@@ -24,7 +24,7 @@ A standard deck of playing cards has four suits (Hearts, Diamonds, Spades and Cl
 
 ## The Game
 ### Imports and Global Variables
-**** Import the random module. This will be used to shuffle the deck prior to dealing. Then, declare variables to store suits, ranks and values. You can develop your own system, or copy this below. Finally, declare a Boolean value to be used to control while loops. This is a common practice used to control the flow of the game.****
+**** Import the random module. This will be used to shuffle the deck prior to dealing. Then, declare variables to store suits, ranks and values. You can develop your own system, or copy this below. Finally, declare a Boolean value to be used to control  <code>while</code> loops. This is a common practice used to control the flow of the game.****
 
     suits = ('Hearts', 'Diamonds', 'Spades', 'Clubs')
     ranks = ('Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine', 'Ten', 'Jack', 'Queen', 'King', 'Ace')
